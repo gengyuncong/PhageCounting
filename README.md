@@ -23,7 +23,7 @@ The scripts were developed using Python 3.8.5. To run the Jupyter notebooks, you
 
 To store the output figures, you need to create a `output` subfolder, inside the main folder of the figure. 
 
-For scripts involving MCMC (Fig. 3c, Fig. 5f, Sfig 7, Sfig. 12, Sfig. 17, Sfig. 19, and Sfig. 20), we have provided the sampled parameters from previous runs in `.csv` in the `tmp` folder, which can be directly loaded into the notebooks using `pd.read_csv`.
+For scripts involving MCMC (Fig. 3c, Fig. 5f, Sfig. 7, Sfig. 12, Sfig. 17, Sfig. 19, and Sfig. 20), we have provided the sampled parameters from previous runs in `.csv` in the `tmp` folder, which can be directly loaded into the notebooks using `pd.read_csv`.
 
 ## 2.2. MATLAB
 The scripts were developed using MATLAB versions 2020a–2023b (64-bit). To run the MATLAB scripts:
